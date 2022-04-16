@@ -1,9 +1,9 @@
 package blz;
-import exception.CensusAnalyserException;
+
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import services.CSVStateCensus;
+
 
 import java.io.InputStream;
 
@@ -59,3 +59,4 @@ public class StateCensusAnalyserTest {
         }
     }
 }
+
